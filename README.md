@@ -1,6 +1,3 @@
-<p align="center">
-  <img src=".assets/devika-avatar.png" alt="Devika Logo" width="250">
-</p>
 
 <h1 align="center">🚀 Agentic AI Software Engineer 👩‍💻</h1>
 
