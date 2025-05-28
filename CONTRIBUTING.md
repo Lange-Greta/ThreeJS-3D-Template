@@ -25,6 +25,10 @@ When submitting a pull request, please follow these guidelines:
    for example: 
       - `Feature: added new feature to the code`
       - `Fix: fixed the bug in the code`
+  
+      -  for example: 
+      - `Feature: added new feature to the code`
+      - `Fix: fixed the bug in the code`
 
 2. **Description**: Provide a clear and detailed description of your changes in the pull request. Explain the problem you are solving, the approach you took, and any potential side effects or limitations of your changes.
 3. **Documentation**: Update the relevant documentation to reflect your changes. This includes the README file, code comments, and any other relevant documentation.
